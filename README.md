@@ -1,2 +1,3 @@
+[CORE102_Lab_4_Linux_Firewall_and_Secure_Remote_Access.docx](https://github.com/user-attachments/files/32878124/CORE102_Lab_4_Linux_Firewall_and_Secure_Remote_Access.docx)
 # Practical-Lab-Linux-Network-Analysis-Firewalls-and-SSH-CORE102-TCP-IP-Networking-Linux-Network-Tools
 The task is to harden a Linux server before connecting it to an internal training network. Since services are exposed without a documented security policy, you must establish a service baseline, allow only approved access, verify the controls from an authorised client, and secure administrative access safely with SSH public-key authentication.
